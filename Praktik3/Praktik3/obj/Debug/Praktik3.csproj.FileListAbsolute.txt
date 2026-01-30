@@ -1,0 +1,10 @@
+C:\Users\student203\Documents\УсолМгдес\WASSSSSSSUUUUUUUUUUUUUUP\Praktik3\Praktik3\bin\Debug\Praktik3.exe.config
+C:\Users\student203\Documents\УсолМгдес\WASSSSSSSUUUUUUUUUUUUUUP\Praktik3\Praktik3\bin\Debug\Praktik3.exe
+C:\Users\student203\Documents\УсолМгдес\WASSSSSSSUUUUUUUUUUUUUUP\Praktik3\Praktik3\bin\Debug\Praktik3.pdb
+C:\Users\student203\Documents\УсолМгдес\WASSSSSSSUUUUUUUUUUUUUUP\Praktik3\Praktik3\obj\Debug\Praktik3.csproj.AssemblyReference.cache
+C:\Users\student203\Documents\УсолМгдес\WASSSSSSSUUUUUUUUUUUUUUP\Praktik3\Praktik3\obj\Debug\Praktik3.Form1.resources
+C:\Users\student203\Documents\УсолМгдес\WASSSSSSSUUUUUUUUUUUUUUP\Praktik3\Praktik3\obj\Debug\Praktik3.Properties.Resources.resources
+C:\Users\student203\Documents\УсолМгдес\WASSSSSSSUUUUUUUUUUUUUUP\Praktik3\Praktik3\obj\Debug\Praktik3.csproj.GenerateResource.cache
+C:\Users\student203\Documents\УсолМгдес\WASSSSSSSUUUUUUUUUUUUUUP\Praktik3\Praktik3\obj\Debug\Praktik3.csproj.CoreCompileInputs.cache
+C:\Users\student203\Documents\УсолМгдес\WASSSSSSSUUUUUUUUUUUUUUP\Praktik3\Praktik3\obj\Debug\Praktik3.exe
+C:\Users\student203\Documents\УсолМгдес\WASSSSSSSUUUUUUUUUUUUUUP\Praktik3\Praktik3\obj\Debug\Praktik3.pdb
