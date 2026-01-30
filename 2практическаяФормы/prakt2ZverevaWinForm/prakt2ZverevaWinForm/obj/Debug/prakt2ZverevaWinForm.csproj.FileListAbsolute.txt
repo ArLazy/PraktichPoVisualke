@@ -1,0 +1,10 @@
+C:\Users\student203\Documents\мгдесусол\Зверева\мдк07\2практическаяФормы\prakt2ZverevaWinForm\prakt2ZverevaWinForm\bin\Debug\prakt2ZverevaWinForm.exe.config
+C:\Users\student203\Documents\мгдесусол\Зверева\мдк07\2практическаяФормы\prakt2ZverevaWinForm\prakt2ZverevaWinForm\bin\Debug\prakt2ZverevaWinForm.exe
+C:\Users\student203\Documents\мгдесусол\Зверева\мдк07\2практическаяФормы\prakt2ZverevaWinForm\prakt2ZverevaWinForm\bin\Debug\prakt2ZverevaWinForm.pdb
+C:\Users\student203\Documents\мгдесусол\Зверева\мдк07\2практическаяФормы\prakt2ZverevaWinForm\prakt2ZverevaWinForm\obj\Debug\prakt2ZverevaWinForm.csproj.AssemblyReference.cache
+C:\Users\student203\Documents\мгдесусол\Зверева\мдк07\2практическаяФормы\prakt2ZverevaWinForm\prakt2ZverevaWinForm\obj\Debug\prakt2ZverevaWinForm.Form1.resources
+C:\Users\student203\Documents\мгдесусол\Зверева\мдк07\2практическаяФормы\prakt2ZverevaWinForm\prakt2ZverevaWinForm\obj\Debug\prakt2ZverevaWinForm.Properties.Resources.resources
+C:\Users\student203\Documents\мгдесусол\Зверева\мдк07\2практическаяФормы\prakt2ZverevaWinForm\prakt2ZverevaWinForm\obj\Debug\prakt2ZverevaWinForm.csproj.GenerateResource.cache
+C:\Users\student203\Documents\мгдесусол\Зверева\мдк07\2практическаяФормы\prakt2ZverevaWinForm\prakt2ZverevaWinForm\obj\Debug\prakt2ZverevaWinForm.csproj.CoreCompileInputs.cache
+C:\Users\student203\Documents\мгдесусол\Зверева\мдк07\2практическаяФормы\prakt2ZverevaWinForm\prakt2ZverevaWinForm\obj\Debug\prakt2ZverevaWinForm.exe
+C:\Users\student203\Documents\мгдесусол\Зверева\мдк07\2практическаяФормы\prakt2ZverevaWinForm\prakt2ZverevaWinForm\obj\Debug\prakt2ZverevaWinForm.pdb
