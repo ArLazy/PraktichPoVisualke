@@ -1,0 +1,7 @@
+C:\Users\student203\Documents\мгдесусол\Зверева\мдк07\2практическая\2praktZvereva07\2praktZvereva07\bin\Debug\2praktZvereva07.exe.config
+C:\Users\student203\Documents\мгдесусол\Зверева\мдк07\2практическая\2praktZvereva07\2praktZvereva07\bin\Debug\2praktZvereva07.exe
+C:\Users\student203\Documents\мгдесусол\Зверева\мдк07\2практическая\2praktZvereva07\2praktZvereva07\bin\Debug\2praktZvereva07.pdb
+C:\Users\student203\Documents\мгдесусол\Зверева\мдк07\2практическая\2praktZvereva07\2praktZvereva07\obj\Debug\2praktZvereva07.csproj.AssemblyReference.cache
+C:\Users\student203\Documents\мгдесусол\Зверева\мдк07\2практическая\2praktZvereva07\2praktZvereva07\obj\Debug\2praktZvereva07.csproj.CoreCompileInputs.cache
+C:\Users\student203\Documents\мгдесусол\Зверева\мдк07\2практическая\2praktZvereva07\2praktZvereva07\obj\Debug\2praktZvereva07.exe
+C:\Users\student203\Documents\мгдесусол\Зверева\мдк07\2практическая\2praktZvereva07\2praktZvereva07\obj\Debug\2praktZvereva07.pdb
