@@ -1,0 +1,10 @@
+C:\Users\student203\Documents\Мгдесян Усоля\зверева\07\7\practich7Zvereva\practich7Zvereva\bin\Debug\practich7Zvereva.exe.config
+C:\Users\student203\Documents\Мгдесян Усоля\зверева\07\7\practich7Zvereva\practich7Zvereva\bin\Debug\practich7Zvereva.exe
+C:\Users\student203\Documents\Мгдесян Усоля\зверева\07\7\practich7Zvereva\practich7Zvereva\bin\Debug\practich7Zvereva.pdb
+C:\Users\student203\Documents\Мгдесян Усоля\зверева\07\7\practich7Zvereva\practich7Zvereva\obj\Debug\practich7Zvereva.csproj.AssemblyReference.cache
+C:\Users\student203\Documents\Мгдесян Усоля\зверева\07\7\practich7Zvereva\practich7Zvereva\obj\Debug\practich7Zvereva.Form1.resources
+C:\Users\student203\Documents\Мгдесян Усоля\зверева\07\7\practich7Zvereva\practich7Zvereva\obj\Debug\practich7Zvereva.Properties.Resources.resources
+C:\Users\student203\Documents\Мгдесян Усоля\зверева\07\7\practich7Zvereva\practich7Zvereva\obj\Debug\practich7Zvereva.csproj.GenerateResource.cache
+C:\Users\student203\Documents\Мгдесян Усоля\зверева\07\7\practich7Zvereva\practich7Zvereva\obj\Debug\practich7Zvereva.csproj.CoreCompileInputs.cache
+C:\Users\student203\Documents\Мгдесян Усоля\зверева\07\7\practich7Zvereva\practich7Zvereva\obj\Debug\practich7Zvereva.exe
+C:\Users\student203\Documents\Мгдесян Усоля\зверева\07\7\practich7Zvereva\practich7Zvereva\obj\Debug\practich7Zvereva.pdb
